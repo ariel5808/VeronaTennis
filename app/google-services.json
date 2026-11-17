@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83023039675",
+    "project_id": "tennis-690ea",
+    "storage_bucket": "tennis-690ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83023039675:android:b023f9e1c57a5bf9bbad9e",
+        "android_client_info": {
+          "package_name": "ariel.varona.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQmNfm1l_g8JEslqxdANDx2a8SCtbANII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83023039675:android:718bdc63208cf2efbbad9e",
+        "android_client_info": {
+          "package_name": "com.example.veronatennis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQmNfm1l_g8JEslqxdANDx2a8SCtbANII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
